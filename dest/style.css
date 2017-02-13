@@ -1,0 +1,7 @@
+
+body{
+	background: blue;
+	display: -ms-flexbox;
+	display: flex;
+}
+
